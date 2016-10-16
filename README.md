@@ -24,6 +24,9 @@
 * Travis CI
 * writing test cases
 
+## Screen Shot
+![App screenshot](https://raw.githubusercontent.com/yuhsiang/react-redux-tutorial-weather/master/screenshots/screenshot01.png "Optional Title")
+
 # References
 * https://www.npmjs.com/package/react-google-maps
 * http://openweathermap.org/forecast5

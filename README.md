@@ -21,7 +21,6 @@
 
 ## TODOs
 * immutableJS
-* Travis CI
 * writing test cases
 
 ## Screen Shot

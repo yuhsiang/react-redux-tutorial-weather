@@ -9,7 +9,7 @@
 	> npm start
 ```
 
-## Tutorial Topic
+## Tutorial Topics
 * es5
 * react
 * react-redux
@@ -19,7 +19,7 @@
 * Sparklines Chart
 * react-material-ui
 
-## TODO
+## TODOs
 * immutableJS
 * Travis CI
 * writing test cases
